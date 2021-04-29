@@ -16,7 +16,6 @@ body {
 }
 
 #nav-bar {
-  position: fixed;
   width: 100%;
   top: 0;
 }
@@ -62,8 +61,6 @@ section.contact {
   background-color: black;
   color: white;
   display: grid;
-  /* justify-content: center;
-  align-content: center; */
   place-content: center;
   text-align: center;
   cursor: pointer;
